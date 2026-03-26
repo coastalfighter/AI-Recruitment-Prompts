@@ -1,4 +1,5 @@
 # AI Recruitment Prompt Library
+# Updated with new prompts
 
 A curated collection of high-performance AI prompts for modern recruitment teams, founders, and hiring managers.
 
