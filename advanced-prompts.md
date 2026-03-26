@@ -1,4 +1,5 @@
 # Advanced AI Recruitment Prompts
+# Added more strategic prompts
 
 ## Deep Candidate Evaluation
 
